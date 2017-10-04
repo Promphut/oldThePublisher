@@ -1,0 +1,16 @@
+{
+  "name": "NextEmpire",
+  "short_name": "Next Empire",
+  "description": "Build the next business empire empowered by technology",
+  "lang": "th-TH",
+  "orientation": "portrait",
+  "start_url": "/",
+  "background_color": "#001738",
+  "theme_color": "#001738",
+  "display": "standalone",
+  "icons": [{
+    "src": "logo.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }]
+}
